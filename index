@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculadora Flutter</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <script src="main.dart.js" type="application/javascript"></script>
+  <noscript>
+    <p>Seu navegador não suporta JavaScript ou o JavaScript está desativado.</p>
+  </noscript>
+  <div id="app">
+   
